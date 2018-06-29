@@ -1,5 +1,5 @@
 GET http://localhost:3000/cars
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTMwMTU0NTAzfQ.pycu_-UHwwCtLHUMFWytkcAYB5sVYIFjXJ6QKKQIG58
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaXBfYWRkcmVzcyI6IjEyNy4wLjAuMSIsImlhdCI6MTUzMDE2NDM2MH0.Dlbz3bSjbQYoksfRkb18qyJXxNxBWSU5dUruL491apg
 
 ###
 GET https://carsauctionhouse-api-jsiopfmjry.now.sh/cars
